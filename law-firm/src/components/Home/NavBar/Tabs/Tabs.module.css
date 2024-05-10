@@ -1,0 +1,6 @@
+.wrapper {
+    display: flex;
+    gap: 45px;
+    cursor: pointer;
+  }
+  
